@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Object">
+      <UniqueIdentifier>{98caf8ff-d1c2-489d-b5c9-efb4c45c76bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System">
+      <UniqueIdentifier>{dc02c2bd-c7fc-40f8-b1bb-8da7850140a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\Video">
+      <UniqueIdentifier>{7f366d83-b9cc-42cd-af4a-d6f91b244498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Object">
+      <UniqueIdentifier>{6b91f3ab-ab78-4a0d-8f4c-12675d5aa93d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System">
+      <UniqueIdentifier>{4771ba81-cc21-4a7f-b24e-206ab04a02b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System\Video">
+      <UniqueIdentifier>{17d43b65-7bfb-47ef-ac50-147c471119b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ressource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Component">
+      <UniqueIdentifier>{e1066589-a70c-4d57-9e52-0025a1822e8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Component">
+      <UniqueIdentifier>{22770a90-fd60-421f-b46b-326d0b5c802b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Component\Video">
+      <UniqueIdentifier>{6d3dc232-4418-455e-a32e-55be7d4796b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Component\Video">
+      <UniqueIdentifier>{8be9fd30-5dfa-4d8f-911f-c43c9fa9c492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Component\Mesh">
+      <UniqueIdentifier>{b660fdc5-7b19-47b3-9525-f9166baf90ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Component\Mesh">
+      <UniqueIdentifier>{48f62136-8b32-4088-a7ef-e67ab190ca04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Component\Light">
+      <UniqueIdentifier>{9d8c5a9f-8c07-45ed-8489-5ae33735e67b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Component\Light">
+      <UniqueIdentifier>{3accf039-e882-4d81-88ae-9f93c8df7af8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{b622c4e7-5eba-453e-8a76-8bf3f6307dd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System\Physics">
+      <UniqueIdentifier>{1396b3e1-16bd-4835-bf8c-5b3d3dac1b76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\Physics">
+      <UniqueIdentifier>{99f3766f-be3a-4aa8-89d4-a751ad412781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Component\Physics">
+      <UniqueIdentifier>{efa37280-1a4d-4bbd-a920-a96103ccdcd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics">
+      <UniqueIdentifier>{6f86f425-3414-4f18-bdfb-aa28d9546c00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Component\Physics">
+      <UniqueIdentifier>{9396bb43-7516-4226-818a-09ec21aefbd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Physics">
+      <UniqueIdentifier>{368d8b85-ef0d-4f68-8bb5-31d7e02bfa7c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="System\feDevice.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="System\feInputManager.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="System\feLightManager.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="System\feResourceManager.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="System\feScene.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="System\feSceneManager.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="System\Video\feDriver.h">
+      <Filter>Header Files\System\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="System\Video\feFrustum.h">
+      <Filter>Header Files\System\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\feObject.h">
+      <Filter>Header Files\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\feComponent.h">
+      <Filter>Header Files\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Video\feCamera.h">
+      <Filter>Header Files\Component\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Video\feEditorCamera.h">
+      <Filter>Header Files\Component\Video</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Mesh\feModel.h">
+      <Filter>Header Files\Component\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Light\feAmbiantLight.h">
+      <Filter>Header Files\Component\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Light\feDirectionalLight.h">
+      <Filter>Header Files\Component\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Light\feLight.h">
+      <Filter>Header Files\Component\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Light\feLightMaterial.h">
+      <Filter>Header Files\Component\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Light\feSpotLight.h">
+      <Filter>Header Files\Component\Light</Filter>
+    </ClInclude>
+    <ClInclude Include="System\feSerializeManager.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="System\Physics\feDebugDrawer.h">
+      <Filter>Header Files\System\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="System\Physics\fePhysicsManager.h">
+      <Filter>Header Files\System\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Object\feTransform.h">
+      <Filter>Header Files\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics\feBoundingSphere.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics\feRay.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Physics\feMotionState.h">
+      <Filter>Header Files\Component\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Physics\feBoxCollider.h">
+      <Filter>Header Files\Component\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Physics\feCapsuleCollider.h">
+      <Filter>Header Files\Component\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Physics\feCollider.h">
+      <Filter>Header Files\Component\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\Physics\feSphereCollider.h">
+      <Filter>Header Files\Component\Physics</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="System\Video\feDriver.cpp">
+      <Filter>Source Files\System\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="System\Video\feFrustum.cpp">
+      <Filter>Source Files\System\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="System\feDevice.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="System\feInputManager.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="System\feLightManager.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="System\feResourceManager.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="System\feScene.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="System\feSceneManager.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\feObject.cpp">
+      <Filter>Source Files\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Object\feTransform.cpp">
+      <Filter>Source Files\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\feComponent.cpp">
+      <Filter>Source Files\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Video\feCamera.cpp">
+      <Filter>Source Files\Component\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Video\feEditorCamera.cpp">
+      <Filter>Source Files\Component\Video</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Mesh\feModel.cpp">
+      <Filter>Source Files\Component\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Light\feAmbiantLight.cpp">
+      <Filter>Source Files\Component\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Light\feDirectionalLight.cpp">
+      <Filter>Source Files\Component\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Light\feLight.cpp">
+      <Filter>Source Files\Component\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Light\feLightMaterial.cpp">
+      <Filter>Source Files\Component\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Light\feSpotLight.cpp">
+      <Filter>Source Files\Component\Light</Filter>
+    </ClCompile>
+    <ClCompile Include="System\feSerializeManager.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="System\Physics\feDebugDrawer.cpp">
+      <Filter>Source Files\System\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="System\Physics\fePhysicsManager.cpp">
+      <Filter>Source Files\System\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics\feBoundingSphere.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics\feRay.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Physics\feBoxCollider.cpp">
+      <Filter>Source Files\Component\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Physics\feCapsuleCollider.cpp">
+      <Filter>Source Files\Component\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Physics\feCollider.cpp">
+      <Filter>Source Files\Component\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Physics\feSphereCollider.cpp">
+      <Filter>Source Files\Component\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\Physics\feMotionState.cpp">
+      <Filter>Source Files\Component\Physics</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Object\feObject.inl">
+      <Filter>Source Files\Object</Filter>
+    </None>
+    <None Include="Component\feComponent.inl">
+      <Filter>Source Files\Component</Filter>
+    </None>
+    <None Include="Component\Light\feLight.inl">
+      <Filter>Source Files\Component\Light</Filter>
+    </None>
+    <None Include="Component\Light\feDirectionalLight.inl">
+      <Filter>Source Files\Component\Light</Filter>
+    </None>
+    <None Include="Component\Video\feCamera.inl">
+      <Filter>Source Files\Component\Video</Filter>
+    </None>
+    <None Include="Shader\basic.fs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\basic.gs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\basic.tcs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\basic.tes.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\basic.vs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\basicC.tcs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\basicC.tes.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\boundingsphere.fs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\boundingsphere.gs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\boundingsphere.vs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\CubeMap.fs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\CubeMap.vs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\frustumculling.cs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\lightshader.fs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\lightshader.gs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+    <None Include="Shader\lightshader.vs.glsl">
+      <Filter>Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>

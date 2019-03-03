@@ -1,0 +1,9 @@
+﻿  Quaternion.cpp
+  Matrix4.cpp
+  Generating Code...
+  Compiling...
+  Vector3d.cpp
+  Generating Code...
+c:\users\l.schmidt\documents\project\engine\frogengine\math\vector3d.cpp(169): warning C4172: returning address of local variable or temporary: res
+     Creating library C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\x64\Debug\Math.lib and object C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\x64\Debug\Math.exp
+  Math.vcxproj -> C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\x64\Debug\Math.dll

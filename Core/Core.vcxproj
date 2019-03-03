@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{58F6FD78-8D78-4A88-B3FA-81EF3AA14FDF}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>Core</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;CORE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;_USRDLL;CORE_EXPORTS;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>..;..\libs\Bullet3Physics\src;..\libs\SFML-2.4.1\include;..\libs\glew-2.0.0\include;..\libs\Cereal\include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>../x64/Debug/;..\libs\Bullet3Physics\lib;..\libs\SFML-2.4.1\lib;..\libs\glew-2.0.0\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>BulletCollision_Debug.lib;BulletDynamics_Debug.lib;LinearMath_Debug.lib;Logger.lib;Image.lib;Math.lib;Mesh.lib;Material.lib;WindowEvent.lib;RHI.lib;Time.lib;Release/x64/glew32.lib;sfml-graphics-d.lib;sfml-window-d.lib;vcruntime.lib;vcruntimed.lib;Ws2_32.lib;sfml-system-d.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;CORE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;_USRDLL;CORE_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="Component\feComponent.h" />
+    <ClInclude Include="Component\Light\feAmbiantLight.h" />
+    <ClInclude Include="Component\Light\feDirectionalLight.h" />
+    <ClInclude Include="Component\Light\feLight.h" />
+    <ClInclude Include="Component\Light\feLightMaterial.h" />
+    <ClInclude Include="Component\Light\feSpotLight.h" />
+    <ClInclude Include="Component\Mesh\feModel.h" />
+    <ClInclude Include="Component\Physics\feBoxCollider.h" />
+    <ClInclude Include="Component\Physics\feCapsuleCollider.h" />
+    <ClInclude Include="Component\Physics\feCollider.h" />
+    <ClInclude Include="Component\Physics\feMotionState.h" />
+    <ClInclude Include="Component\Physics\feSphereCollider.h" />
+    <ClInclude Include="Component\Video\feCamera.h" />
+    <ClInclude Include="Component\Video\feEditorCamera.h" />
+    <ClInclude Include="Object\feObject.h" />
+    <ClInclude Include="Object\feTransform.h" />
+    <ClInclude Include="Physics\feBoundingSphere.h" />
+    <ClInclude Include="Physics\feRay.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="System\feDevice.h" />
+    <ClInclude Include="System\feInputManager.h" />
+    <ClInclude Include="System\feLightManager.h" />
+    <ClInclude Include="System\feResourceManager.h" />
+    <ClInclude Include="System\feScene.h" />
+    <ClInclude Include="System\feSceneManager.h" />
+    <ClInclude Include="System\feSerializeManager.h" />
+    <ClInclude Include="System\Physics\feDebugDrawer.h" />
+    <ClInclude Include="System\Physics\fePhysicsManager.h" />
+    <ClInclude Include="System\Video\feDriver.h" />
+    <ClInclude Include="System\Video\feFrustum.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Component\feComponent.cpp" />
+    <ClCompile Include="Component\Light\feAmbiantLight.cpp" />
+    <ClCompile Include="Component\Light\feDirectionalLight.cpp" />
+    <ClCompile Include="Component\Light\feLight.cpp" />
+    <ClCompile Include="Component\Light\feLightMaterial.cpp" />
+    <ClCompile Include="Component\Light\feSpotLight.cpp" />
+    <ClCompile Include="Component\Mesh\feModel.cpp" />
+    <ClCompile Include="Component\Physics\feBoxCollider.cpp" />
+    <ClCompile Include="Component\Physics\feCapsuleCollider.cpp" />
+    <ClCompile Include="Component\Physics\feCollider.cpp" />
+    <ClCompile Include="Component\Physics\feMotionState.cpp" />
+    <ClCompile Include="Component\Physics\feSphereCollider.cpp" />
+    <ClCompile Include="Component\Video\feCamera.cpp" />
+    <ClCompile Include="Component\Video\feEditorCamera.cpp" />
+    <ClCompile Include="Core.cpp" />
+    <ClCompile Include="dllmain.cpp">
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</CompileAsManaged>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+      </PrecompiledHeader>
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</CompileAsManaged>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+      </PrecompiledHeader>
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</CompileAsManaged>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+      </PrecompiledHeader>
+      <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</CompileAsManaged>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+      </PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Object\feObject.cpp" />
+    <ClCompile Include="Object\feTransform.cpp" />
+    <ClCompile Include="Physics\feBoundingSphere.cpp" />
+    <ClCompile Include="Physics\feRay.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="System\feDevice.cpp" />
+    <ClCompile Include="System\feInputManager.cpp" />
+    <ClCompile Include="System\feLightManager.cpp" />
+    <ClCompile Include="System\feResourceManager.cpp" />
+    <ClCompile Include="System\feScene.cpp" />
+    <ClCompile Include="System\feSceneManager.cpp" />
+    <ClCompile Include="System\feSerializeManager.cpp" />
+    <ClCompile Include="System\Physics\feDebugDrawer.cpp" />
+    <ClCompile Include="System\Physics\fePhysicsManager.cpp" />
+    <ClCompile Include="System\Video\feDriver.cpp" />
+    <ClCompile Include="System\Video\feFrustum.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Image\Image.vcxproj">
+      <Project>{c9894808-c674-45dc-8963-1002555ce1e9}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Logger\Logger.vcxproj">
+      <Project>{760b2ad2-1837-45ee-a038-afa27fb6a759}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Material\Material.vcxproj">
+      <Project>{c66516b4-d879-402f-a2e8-c732c352f8c1}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Math\Math.vcxproj">
+      <Project>{0ecd0fe0-60ec-428d-b913-9ecf7df2fd8b}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Mesh\Mesh.vcxproj">
+      <Project>{1902a777-fee8-429e-a92b-63f4da79b8ad}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\RHI\RHI.vcxproj">
+      <Project>{3d6bf351-a4d3-4c88-bc52-b824b539cdb0}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Time\Time.vcxproj">
+      <Project>{d29c9a6e-1e80-4445-87b1-54612ac532f7}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\Tools\Tools.vcxproj">
+      <Project>{39cfe93f-fa98-4383-b830-a0d31a960157}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\WindowEvent\WindowEvent.vcxproj">
+      <Project>{2e2ae26a-e20f-4033-92db-727d5525f9d9}</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Component\feComponent.inl" />
+    <None Include="Component\Light\feDirectionalLight.inl" />
+    <None Include="Component\Light\feLight.inl" />
+    <None Include="Component\Video\feCamera.inl" />
+    <None Include="Object\feObject.inl" />
+    <None Include="Shader\basic.fs.glsl" />
+    <None Include="Shader\basic.gs.glsl" />
+    <None Include="Shader\basic.tcs.glsl" />
+    <None Include="Shader\basic.tes.glsl" />
+    <None Include="Shader\basic.vs.glsl" />
+    <None Include="Shader\basicC.tcs.glsl" />
+    <None Include="Shader\basicC.tes.glsl" />
+    <None Include="Shader\boundingsphere.fs.glsl" />
+    <None Include="Shader\boundingsphere.gs.glsl" />
+    <None Include="Shader\boundingsphere.vs.glsl" />
+    <None Include="Shader\CubeMap.fs.glsl" />
+    <None Include="Shader\CubeMap.vs.glsl" />
+    <None Include="Shader\frustumculling.cs.glsl" />
+    <None Include="Shader\lightshader.fs.glsl" />
+    <None Include="Shader\lightshader.gs.glsl" />
+    <None Include="Shader\lightshader.vs.glsl" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

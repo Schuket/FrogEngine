@@ -1,0 +1,1129 @@
+INFORMATION : SFMLWindow is creating. . .
+INFORMATION : SFMLWindow created !
+INFORMATION : feDevice is creating. . .
+INFORMATION : SFMLWindow is creating. . .
+INFORMATION : SFMLWindow created !
+INFORMATION : Time is creating. . .
+INFORMATION : Time created !
+INFORMATION : feDriver is creating. . .
+INFORMATION : feDriver created !
+INFORMATION : feSceneManager is creating. . .
+INFORMATION : feSceneManager created !
+INFORMATION : feInputManager is creating. . .
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : feInputManager created !
+INFORMATION : fePhysicManager is creating. . .
+INFORMATION : fePhysicManager created !
+INFORMATION : feDevice created !
+INFORMATION :  *** OpenGL Context Settings *** 
+INFORMATION :  -> Version : 4.5
+INFORMATION :  -> Depth Bits : 24
+INFORMATION :  -> Stencil Bits : 8
+INFORMATION :  -> Antialising Level : 2
+INFORMATION :  *** *********************** *** 
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feLightManager is creating. . .
+INFORMATION : feLightManager created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feObject is creating. . .
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feBoundingSphere is creating. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tes.glsl to open.
+INFORMATION : Shader [boundingsphere] is created !
+INFORMATION : feBoundingSphere created !
+INFORMATION : feObject created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feCamera is creating. . .
+INFORMATION : feFrustum is creating. . .
+INFORMATION : feFrustum created !
+INFORMATION : feCamera created !
+INFORMATION : feCamera is creating. . .
+INFORMATION : feCamera created !
+INFORMATION : feResourceManager is creating. . .
+INFORMATION : feResourceManager created !
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/line.gs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/line.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/line.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/line.tes.glsl to open.
+INFORMATION : Shader [line] is created !
+INFORMATION : feScene is creating. . .
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feObject is creating. . .
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feBoundingSphere is creating. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tes.glsl to open.
+INFORMATION : Shader [boundingsphere] is created !
+INFORMATION : feBoundingSphere created !
+INFORMATION : feObject created !
+INFORMATION : feScene created !
+INFORMATION : Skybox[../Textures/Skybox/] is loading. . .
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feObject is creating. . .
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feBoundingSphere is creating. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tes.glsl to open.
+INFORMATION : Shader [boundingsphere] is created !
+INFORMATION : feBoundingSphere created !
+INFORMATION : feObject created !
+INFORMATION : feModel is creating. . .
+INFORMATION : feModel created !
+INFORMATION : feMeshSkybox is loading. . .
+INFORMATION : feMeshSkybox loaded !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is creating. . .
+INFORMATION : feMesh created !
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : feMeshSkybox is creating. . .
+INFORMATION : GLTextureSkybox is loading. . .
+INFORMATION : feImage[../Textures/Skybox/right.jpg] is loading. . .
+INFORMATION : feImage[../Textures/Skybox/right.jpg] loaded !
+INFORMATION : feImage[../Textures/Skybox/right.jpg] is creating. . .
+INFORMATION : feImage[../Textures/Skybox/right.jpg] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : feImage[../Textures/Skybox/right.jpg] is deleting. . .
+INFORMATION : feImage[../Textures/Skybox/right.jpg] deleted !
+INFORMATION : feImage[../Textures/Skybox/left.jpg] is loading. . .
+INFORMATION : feImage[../Textures/Skybox/left.jpg] loaded !
+INFORMATION : feImage[../Textures/Skybox/left.jpg] is creating. . .
+INFORMATION : feImage[../Textures/Skybox/left.jpg] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : feImage[../Textures/Skybox/left.jpg] is deleting. . .
+INFORMATION : feImage[../Textures/Skybox/left.jpg] deleted !
+INFORMATION : feImage[../Textures/Skybox/top.jpg] is loading. . .
+INFORMATION : feImage[../Textures/Skybox/top.jpg] loaded !
+INFORMATION : feImage[../Textures/Skybox/top.jpg] is creating. . .
+INFORMATION : feImage[../Textures/Skybox/top.jpg] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : feImage[../Textures/Skybox/top.jpg] is deleting. . .
+INFORMATION : feImage[../Textures/Skybox/top.jpg] deleted !
+INFORMATION : feImage[../Textures/Skybox/bottom.jpg] is loading. . .
+INFORMATION : feImage[../Textures/Skybox/bottom.jpg] loaded !
+INFORMATION : feImage[../Textures/Skybox/bottom.jpg] is creating. . .
+INFORMATION : feImage[../Textures/Skybox/bottom.jpg] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : feImage[../Textures/Skybox/bottom.jpg] is deleting. . .
+INFORMATION : feImage[../Textures/Skybox/bottom.jpg] deleted !
+INFORMATION : feImage[../Textures/Skybox/back.jpg] is loading. . .
+INFORMATION : feImage[../Textures/Skybox/back.jpg] loaded !
+INFORMATION : feImage[../Textures/Skybox/back.jpg] is creating. . .
+INFORMATION : feImage[../Textures/Skybox/back.jpg] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : feImage[../Textures/Skybox/back.jpg] is deleting. . .
+INFORMATION : feImage[../Textures/Skybox/back.jpg] deleted !
+INFORMATION : feImage[../Textures/Skybox/front.jpg] is loading. . .
+INFORMATION : feImage[../Textures/Skybox/front.jpg] loaded !
+INFORMATION : feImage[../Textures/Skybox/front.jpg] is creating. . .
+INFORMATION : feImage[../Textures/Skybox/front.jpg] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : feImage[../Textures/Skybox/front.jpg] is deleting. . .
+INFORMATION : feImage[../Textures/Skybox/front.jpg] deleted !
+INFORMATION : GLTextureSkybox loaded !
+INFORMATION : feMeshSkybox created !
+INFORMATION : feShader[cubemap] is loading. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/cubemap.gs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/cubemap.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/cubemap.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/cubemap.tes.glsl to open.
+INFORMATION : Shader [cubemap] is created !
+INFORMATION : feShader[cubemap] loaded !
+INFORMATION : Skybox[../Textures/Skybox/] loaded !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feObject is creating. . .
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feBoundingSphere is creating. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tes.glsl to open.
+INFORMATION : Shader [boundingsphere] is created !
+INFORMATION : feBoundingSphere created !
+INFORMATION : feObject created !
+INFORMATION : feModel[ironman.fbx] is loading. . .
+INFORMATION : feModel is creating. . .
+INFORMATION : feModel created !
+INFORMATION : feMesh[ironman.fbx] is loading. . .
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feMaterial is creating. . .
+INFORMATION : feMaterial created !
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : feMaterialFbx is creating. . .
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : GLTexture is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feTexture::RHIGLDeleteTextures : feTexture already deleted.
+INFORMATION : GLTexture deleted !
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : GLTexture is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feTexture::RHIGLDeleteTextures : feTexture already deleted.
+INFORMATION : GLTexture deleted !
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : GLTexture is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feTexture::RHIGLDeleteTextures : feTexture already deleted.
+INFORMATION : GLTexture deleted !
+INFORMATION : feMaterialFbx created !
+INFORMATION : GLTexture[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.dff.png] is loading. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.dff.png] is loading. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.dff.png] loaded !
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.dff.png] is creating. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.dff.png] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : GLTexture[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.dff.png] loaded !
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.dff.png] is deleting. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.dff.png] deleted !
+INFORMATION : GLTexture[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.spec.png] is loading. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.spec.png] is loading. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.spec.png] loaded !
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.spec.png] is creating. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.spec.png] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : GLTexture[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.spec.png] loaded !
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.spec.png] is deleting. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.spec.png] deleted !
+INFORMATION : GLTexture[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.norm.png] is loading. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.norm.png] is loading. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.norm.png] loaded !
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.norm.png] is creating. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.norm.png] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : GLTexture[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.norm.png] loaded !
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.norm.png] is deleting. . .
+INFORMATION : feImage[C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\Textures\ironman\ironman.fbm/ironman.norm.png] deleted !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is creating. . .
+INFORMATION : feMesh created !
+INFORMATION : feMeshFbx is creating. . .
+INFORMATION : feMeshFbx created !
+INFORMATION : feMesh[ironman.fbx] loaded !
+INFORMATION : feShader[basicFBX] is loading. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/basicFBX.cs.glsl to open.
+INFORMATION : Shader [basicFBX] is created !
+INFORMATION : feShader[basicFBX] loaded !
+INFORMATION : feModel[ironman.fbx] loaded !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feObject is creating. . .
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feBoundingSphere is creating. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tes.glsl to open.
+INFORMATION : Shader [boundingsphere] is created !
+INFORMATION : feBoundingSphere created !
+INFORMATION : feObject created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feCamera is creating. . .
+INFORMATION : feFrustum is creating. . .
+INFORMATION : feFrustum created !
+INFORMATION : feCamera created !
+INFORMATION : feCamera is creating. . .
+INFORMATION : feCamera created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feObject is creating. . .
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feBoundingSphere is creating. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tes.glsl to open.
+INFORMATION : Shader [boundingsphere] is created !
+INFORMATION : feBoundingSphere created !
+INFORMATION : feObject created !
+INFORMATION : feLightMaterial is creating. . .
+INFORMATION : feLightMaterial created !
+INFORMATION : feLight is creating. . .
+INFORMATION : feLightMaterial is creating. . .
+INFORMATION : feLightMaterial created !
+INFORMATION : feLightMaterial is deleting. . .
+INFORMATION : feLightMaterial deleted !
+INFORMATION : feLight created !
+INFORMATION : feDirectionalLight is creating. . .
+INFORMATION : feDirectionalLight created !
+INFORMATION : ###~~~###~~~### feSceneManager::HookMouseInputController ###~~~###~~~###
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feObject is creating. . .
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feBoundingSphere is creating. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tes.glsl to open.
+INFORMATION : Shader [boundingsphere] is created !
+INFORMATION : feBoundingSphere created !
+INFORMATION : feObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feObject is creating. . .
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feBoundingSphere is creating. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tes.glsl to open.
+INFORMATION : Shader [boundingsphere] is created !
+INFORMATION : feBoundingSphere created !
+INFORMATION : feObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feObject is creating. . .
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feBoundingSphere is creating. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tes.glsl to open.
+INFORMATION : Shader [boundingsphere] is created !
+INFORMATION : feBoundingSphere created !
+INFORMATION : feObject created !
+INFORMATION : feModel[Cube.obj] is loading. . .
+INFORMATION : feModel is creating. . .
+INFORMATION : feModel created !
+INFORMATION : feMesh[Cube.obj] is loading. . .
+INFORMATION : feMaterial[cube] is loading. . .
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feMaterial is creating. . .
+INFORMATION : feMaterial created !
+INFORMATION : GLTexture[..\Textures\White.png] is loading. . .
+INFORMATION : feImage[..\Textures\White.png] is loading. . .
+INFORMATION : feImage[..\Textures\White.png] loaded !
+INFORMATION : feImage[..\Textures\White.png] is creating. . .
+INFORMATION : feImage[..\Textures\White.png] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : GLTexture[..\Textures\White.png] loaded !
+INFORMATION : feImage[..\Textures\White.png] is deleting. . .
+INFORMATION : feImage[..\Textures\White.png] deleted !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is creating. . .
+INFORMATION : feMesh created !
+INFORMATION : feMeshObj is creating. . .
+INFORMATION : feMeshObj created !
+INFORMATION : feMesh[Cube.obj] loaded !
+INFORMATION : feShader[basic] is loading. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/basic.cs.glsl to open.
+INFORMATION : Shader [basic] is created !
+INFORMATION : feShader[basic] loaded !
+INFORMATION : feModel[Cube.obj] loaded !
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feObject is creating. . .
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feBoundingSphere is creating. . .
+INFORMATION : feShader is creating. . .
+INFORMATION : feShader created !
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.cs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tcs.glsl to open.
+INFORMATION : RHI_FILE_NOT_FOUND : there is no file : ../libs/FrogEngine/include/Core/Shader/boundingsphere.tes.glsl to open.
+INFORMATION : Shader [boundingsphere] is created !
+INFORMATION : feBoundingSphere created !
+INFORMATION : feObject created !
+INFORMATION : feModel[Cube.obj] is loading. . .
+INFORMATION : feModel is creating. . .
+INFORMATION : feModel created !
+INFORMATION : feMesh[Cube.obj] is loading. . .
+INFORMATION : feMaterial[cube] is loading. . .
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feMaterial is creating. . .
+INFORMATION : feMaterial created !
+INFORMATION : GLTexture[..\Textures\White.png] is loading. . .
+INFORMATION : feImage[..\Textures\White.png] is loading. . .
+INFORMATION : feImage[..\Textures\White.png] loaded !
+INFORMATION : feImage[..\Textures\White.png] is creating. . .
+INFORMATION : feImage[..\Textures\White.png] created !
+INFORMATION : LoaderImage::Cache freed !
+INFORMATION : GLTexture[..\Textures\White.png] loaded !
+INFORMATION : feImage[..\Textures\White.png] is deleting. . .
+INFORMATION : feImage[..\Textures\White.png] deleted !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is creating. . .
+INFORMATION : feMesh created !
+INFORMATION : feMeshObj is creating. . .
+INFORMATION : feMeshObj created !
+INFORMATION : feMesh[Cube.obj] loaded !
+INFORMATION : feShader[basic] is loading. . .
+INFORMATION : feShader[basic] loaded !
+INFORMATION : feModel[Cube.obj] loaded !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feModel is copying. . .
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is copying. . .
+INFORMATION : feMesh copied !
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : feMeshSkybox is copying. . .
+INFORMATION : feMeshSkybox copied !
+INFORMATION : feModel copied !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feModel is copying. . .
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is copying. . .
+INFORMATION : feMesh copied !
+INFORMATION : feMeshFbx is copying. . .
+INFORMATION : feMeshFbx copied !
+INFORMATION : feModel copied !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feLightMaterial is creating. . .
+INFORMATION : feLightMaterial created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feModel is copying. . .
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is copying. . .
+INFORMATION : feMesh copied !
+INFORMATION : feMeshObj is copying. . .
+INFORMATION : feMeshObj copied !
+INFORMATION : feModel copied !
+INFORMATION : Creating a feEvent.
+INFORMATION : feModel is copying. . .
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is copying. . .
+INFORMATION : feMesh copied !
+INFORMATION : feMeshObj is copying. . .
+INFORMATION : feMeshObj copied !
+INFORMATION : feModel copied !
+INFORMATION : ~~~~~~~ feSceneManager::LeftMouseClick ~~~~~~~
+INFORMATION : ~~~~~~~ feSceneManager::LeftMouseClick ~~~~~~~
+INFORMATION : Cannot Bind This Class Member Function Pointer, Already Binded to this Event
+INFORMATION : Cannot Bind This Class Member Function Pointer, Already Binded to this Event
+INFORMATION : Cannot Bind This Class Member Function Pointer, Already Binded to this Event
+INFORMATION : Cannot Bind This Class Member Function Pointer, Already Binded to this Event
+INFORMATION : Cannot Bind This Class Member Function Pointer, Already Binded to this Event
+INFORMATION : Cannot Bind This Class Member Function Pointer, Already Binded to this Event
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feModel is copying. . .
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is copying. . .
+INFORMATION : feMesh copied !
+INFORMATION : GLTexture is creating. . .
+INFORMATION : GLTexture created !
+INFORMATION : feMeshSkybox is copying. . .
+INFORMATION : feMeshSkybox copied !
+INFORMATION : feModel copied !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feModel is copying. . .
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is copying. . .
+INFORMATION : feMesh copied !
+INFORMATION : feMeshFbx is copying. . .
+INFORMATION : feMeshFbx copied !
+INFORMATION : feModel copied !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feLightMaterial is creating. . .
+INFORMATION : feLightMaterial created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : Creating a feEvent.
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : feTransform is creating. . .
+INFORMATION : feTransform created !
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : GLBufferObject is creating. . .
+INFORMATION : GLBufferObject created !
+INFORMATION : feModel is copying. . .
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is copying. . .
+INFORMATION : feMesh copied !
+INFORMATION : feMeshObj is copying. . .
+INFORMATION : feMeshObj copied !
+INFORMATION : feModel copied !
+INFORMATION : Creating a feEvent.
+INFORMATION : feModel is copying. . .
+INFORMATION : GLBuffer is creating. . .
+INFORMATION : GLBuffer created !
+INFORMATION : feMesh is copying. . .
+INFORMATION : feMesh copied !
+INFORMATION : feMeshObj is copying. . .
+INFORMATION : feMeshObj copied !
+INFORMATION : feModel copied !
+INFORMATION : SFMLWindow is deleting. . .
+INFORMATION : SFMLWindow deleted !
+INFORMATION : feDevice::Shutdown() is calling. . .
+INFORMATION : feDriver::Shutdown() is calling. . .
+INFORMATION : feShader[basic] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[basic] deleted !
+INFORMATION : feShader[basicFBX] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[basicFBX] deleted !
+INFORMATION : feShader[cubemap] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[cubemap] deleted !
+INFORMATION : feDriver::Shutdown() called !
+INFORMATION : feSceneManager::Shutdown() is calling. . .
+INFORMATION : feLightManager is deleting. . .
+INFORMATION : feLightManager deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : feObject is deleting. . .
+INFORMATION : feCamera is deleting. . .
+INFORMATION : feFrustum is deleting. . .
+INFORMATION : feFrustum deleted !
+INFORMATION : feCamera deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : feBoundingSphere is deleting. . .
+INFORMATION : feShader[boundingsphere] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[boundingsphere] deleted !
+INFORMATION : feBoundingSphere deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feObject deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : feResourceManager is deleting. . .
+INFORMATION : feResourceManager deleted !
+INFORMATION : feScene is deleting. . .
+INFORMATION : feObject is deleting. . .
+INFORMATION : feModel is deleting. . .
+INFORMATION : feMesh is deleting. . .
+INFORMATION : feMesh deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feModel deleted !
+INFORMATION : feBoundingSphere is deleting. . .
+INFORMATION : feShader[boundingsphere] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[boundingsphere] deleted !
+INFORMATION : feBoundingSphere deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feObject deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : feObject is deleting. . .
+INFORMATION : feObject is deleting. . .
+INFORMATION : Deleting a feEvent.
+INFORMATION : feModel is deleting. . .
+INFORMATION : feMesh is deleting. . .
+INFORMATION : feMaterial[Unnamed Material] is deleting. . .
+INFORMATION : feMaterial[Unnamed Material] deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLTexture is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feTexture::RHIGLDeleteTextures : feTexture already deleted.
+INFORMATION : GLTexture deleted !
+INFORMATION : feMesh deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feModel deleted !
+INFORMATION : feBoundingSphere is deleting. . .
+INFORMATION : feShader[boundingsphere] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[boundingsphere] deleted !
+INFORMATION : feBoundingSphere deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feObject deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : feObject is deleting. . .
+INFORMATION : feCamera is deleting. . .
+INFORMATION : feFrustum is deleting. . .
+INFORMATION : feFrustum deleted !
+INFORMATION : feCamera deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : feBoundingSphere is deleting. . .
+INFORMATION : feShader[boundingsphere] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[boundingsphere] deleted !
+INFORMATION : feBoundingSphere deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feObject deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : feObject is deleting. . .
+INFORMATION : feDirectionalLight is deleting. . .
+INFORMATION : feDirectionalLight deleted !
+INFORMATION : feLight is deleting. . .
+INFORMATION : feLight is deleted !
+INFORMATION : feLightMaterial is deleting. . .
+INFORMATION : feLightMaterial deleted !
+INFORMATION : feBoundingSphere is deleting. . .
+INFORMATION : feShader[boundingsphere] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[boundingsphere] deleted !
+INFORMATION : feBoundingSphere deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feObject deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : feObject is deleting. . .
+INFORMATION : Deleting a feEvent.
+INFORMATION : feBoundingSphere is deleting. . .
+INFORMATION : feShader[boundingsphere] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[boundingsphere] deleted !
+INFORMATION : feBoundingSphere deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feObject deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : feObject is deleting. . .
+INFORMATION : Deleting a feEvent.
+INFORMATION : feBoundingSphere is deleting. . .
+INFORMATION : feShader[boundingsphere] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[boundingsphere] deleted !
+INFORMATION : feBoundingSphere deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feObject deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : feObject is deleting. . .
+INFORMATION : feObject is deleting. . .
+INFORMATION : feModel is deleting. . .
+INFORMATION : feMesh is deleting. . .
+INFORMATION : feMaterial[Unnamed Material] is deleting. . .
+INFORMATION : feMaterial[Unnamed Material] deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLTexture is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feTexture::RHIGLDeleteTextures : feTexture already deleted.
+INFORMATION : GLTexture deleted !
+INFORMATION : feMesh deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feModel deleted !
+INFORMATION : feBoundingSphere is deleting. . .
+INFORMATION : feShader[boundingsphere] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[boundingsphere] deleted !
+INFORMATION : feBoundingSphere deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feObject deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : feModel is deleting. . .
+INFORMATION : feMesh is deleting. . .
+INFORMATION : feMaterial[Unnamed Material] is deleting. . .
+INFORMATION : feMaterial[Unnamed Material] deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLTexture is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feTexture::RHIGLDeleteTextures : feTexture already deleted.
+INFORMATION : GLTexture deleted !
+INFORMATION : feMesh deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feModel deleted !
+INFORMATION : feBoundingSphere is deleting. . .
+INFORMATION : feShader[boundingsphere] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[boundingsphere] deleted !
+INFORMATION : feBoundingSphere deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feObject deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : feBoundingSphere is deleting. . .
+INFORMATION : feShader[boundingsphere] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[boundingsphere] deleted !
+INFORMATION : feBoundingSphere deleted !
+INFORMATION : GLBufferObject is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBufferObject::RHIGLDeleteBuffers : feBuffer already deleted.
+INFORMATION : GLBufferObject deleted !
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feObject deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : feScene deleted !
+INFORMATION : feSceneManager::Shutdown() called !
+INFORMATION : fePhysicManager is deleting. . .
+INFORMATION : GLBuffer is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteBuffer : feBuffer already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feBuffer::RHIGLDeleteVertexArrays : Vertex Array already deleted.
+INFORMATION : GLBuffer deleted !
+INFORMATION : feShader[line] is deleting. . .
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteShader : shader already deleted.
+INFORMATION : RHI_UNREGISTRED_ERROR : feShader::RHIGLDeleteProgram : shader already deleted.
+INFORMATION : feShader[line] deleted !
+INFORMATION : fePhysicManager deleted !
+INFORMATION : feDriver is deleting. . .
+INFORMATION : feDriver deleted !
+INFORMATION : feSceneManager is deleting. . .
+INFORMATION : feSceneManager deleted !
+INFORMATION : feInputManager is deleting. . .
+INFORMATION : feInputManager deleted !
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : Deleting a feEvent.
+INFORMATION : SFMLWindow is deleting. . .
+INFORMATION : SFMLWindow deleted !
+INFORMATION : Time is deleting. . .
+INFORMATION : Time deleted !
+INFORMATION : feDevice::Shutdown() called !

@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  stdafx.cpp
+  SFMLLoaderImage.cpp
+  LoaderImage.cpp
+  Generating Code...
+     Creating library C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\x64\Debug\LoaderImage.lib and object C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\x64\Debug\LoaderImage.exp
+  LoaderImage.vcxproj -> C:\Users\l.schmidt\Documents\Project\Engine\FrogEngine\x64\Debug\LoaderImage.dll
