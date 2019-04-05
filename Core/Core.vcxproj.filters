@@ -5,9 +5,6 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
     </Filter>
-    <Filter Include="Header Files\Object">
-      <UniqueIdentifier>{98caf8ff-d1c2-489d-b5c9-efb4c45c76bd}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Header Files\System">
       <UniqueIdentifier>{dc02c2bd-c7fc-40f8-b1bb-8da7850140a1}</UniqueIdentifier>
     </Filter>
@@ -17,9 +14,6 @@
     <Filter Include="Source Files">
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="Source Files\Object">
-      <UniqueIdentifier>{6b91f3ab-ab78-4a0d-8f4c-12675d5aa93d}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\System">
       <UniqueIdentifier>{4771ba81-cc21-4a7f-b24e-206ab04a02b7}</UniqueIdentifier>
@@ -36,18 +30,6 @@
     </Filter>
     <Filter Include="Source Files\Component">
       <UniqueIdentifier>{22770a90-fd60-421f-b46b-326d0b5c802b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Component\Video">
-      <UniqueIdentifier>{6d3dc232-4418-455e-a32e-55be7d4796b7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Component\Video">
-      <UniqueIdentifier>{8be9fd30-5dfa-4d8f-911f-c43c9fa9c492}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Component\Mesh">
-      <UniqueIdentifier>{b660fdc5-7b19-47b3-9525-f9166baf90ac}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Component\Mesh">
-      <UniqueIdentifier>{48f62136-8b32-4088-a7ef-e67ab190ca04}</UniqueIdentifier>
     </Filter>
     <Filter Include="Header Files\Component\Light">
       <UniqueIdentifier>{9d8c5a9f-8c07-45ed-8489-5ae33735e67b}</UniqueIdentifier>
@@ -84,44 +66,14 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="System\feDevice.h">
-      <Filter>Header Files\System</Filter>
-    </ClInclude>
-    <ClInclude Include="System\feInputManager.h">
-      <Filter>Header Files\System</Filter>
-    </ClInclude>
     <ClInclude Include="System\feLightManager.h">
-      <Filter>Header Files\System</Filter>
-    </ClInclude>
-    <ClInclude Include="System\feResourceManager.h">
       <Filter>Header Files\System</Filter>
     </ClInclude>
     <ClInclude Include="System\feScene.h">
       <Filter>Header Files\System</Filter>
     </ClInclude>
-    <ClInclude Include="System\feSceneManager.h">
-      <Filter>Header Files\System</Filter>
-    </ClInclude>
     <ClInclude Include="System\Video\feDriver.h">
       <Filter>Header Files\System\Video</Filter>
-    </ClInclude>
-    <ClInclude Include="System\Video\feFrustum.h">
-      <Filter>Header Files\System\Video</Filter>
-    </ClInclude>
-    <ClInclude Include="Object\feObject.h">
-      <Filter>Header Files\Object</Filter>
-    </ClInclude>
-    <ClInclude Include="Component\feComponent.h">
-      <Filter>Header Files\Component</Filter>
-    </ClInclude>
-    <ClInclude Include="Component\Video\feCamera.h">
-      <Filter>Header Files\Component\Video</Filter>
-    </ClInclude>
-    <ClInclude Include="Component\Video\feEditorCamera.h">
-      <Filter>Header Files\Component\Video</Filter>
-    </ClInclude>
-    <ClInclude Include="Component\Mesh\feModel.h">
-      <Filter>Header Files\Component\Mesh</Filter>
     </ClInclude>
     <ClInclude Include="Component\Light\feAmbiantLight.h">
       <Filter>Header Files\Component\Light</Filter>
@@ -138,17 +90,11 @@
     <ClInclude Include="Component\Light\feSpotLight.h">
       <Filter>Header Files\Component\Light</Filter>
     </ClInclude>
-    <ClInclude Include="System\feSerializeManager.h">
-      <Filter>Header Files\System</Filter>
-    </ClInclude>
     <ClInclude Include="System\Physics\feDebugDrawer.h">
       <Filter>Header Files\System\Physics</Filter>
     </ClInclude>
     <ClInclude Include="System\Physics\fePhysicsManager.h">
       <Filter>Header Files\System\Physics</Filter>
-    </ClInclude>
-    <ClInclude Include="Object\feTransform.h">
-      <Filter>Header Files\Object</Filter>
     </ClInclude>
     <ClInclude Include="Physics\feBoundingSphere.h">
       <Filter>Header Files\Physics</Filter>
@@ -185,44 +131,11 @@
     <ClCompile Include="System\Video\feDriver.cpp">
       <Filter>Source Files\System\Video</Filter>
     </ClCompile>
-    <ClCompile Include="System\Video\feFrustum.cpp">
-      <Filter>Source Files\System\Video</Filter>
-    </ClCompile>
-    <ClCompile Include="System\feDevice.cpp">
-      <Filter>Source Files\System</Filter>
-    </ClCompile>
-    <ClCompile Include="System\feInputManager.cpp">
-      <Filter>Source Files\System</Filter>
-    </ClCompile>
     <ClCompile Include="System\feLightManager.cpp">
-      <Filter>Source Files\System</Filter>
-    </ClCompile>
-    <ClCompile Include="System\feResourceManager.cpp">
       <Filter>Source Files\System</Filter>
     </ClCompile>
     <ClCompile Include="System\feScene.cpp">
       <Filter>Source Files\System</Filter>
-    </ClCompile>
-    <ClCompile Include="System\feSceneManager.cpp">
-      <Filter>Source Files\System</Filter>
-    </ClCompile>
-    <ClCompile Include="Object\feObject.cpp">
-      <Filter>Source Files\Object</Filter>
-    </ClCompile>
-    <ClCompile Include="Object\feTransform.cpp">
-      <Filter>Source Files\Object</Filter>
-    </ClCompile>
-    <ClCompile Include="Component\feComponent.cpp">
-      <Filter>Source Files\Component</Filter>
-    </ClCompile>
-    <ClCompile Include="Component\Video\feCamera.cpp">
-      <Filter>Source Files\Component\Video</Filter>
-    </ClCompile>
-    <ClCompile Include="Component\Video\feEditorCamera.cpp">
-      <Filter>Source Files\Component\Video</Filter>
-    </ClCompile>
-    <ClCompile Include="Component\Mesh\feModel.cpp">
-      <Filter>Source Files\Component\Mesh</Filter>
     </ClCompile>
     <ClCompile Include="Component\Light\feAmbiantLight.cpp">
       <Filter>Source Files\Component\Light</Filter>
@@ -238,9 +151,6 @@
     </ClCompile>
     <ClCompile Include="Component\Light\feSpotLight.cpp">
       <Filter>Source Files\Component\Light</Filter>
-    </ClCompile>
-    <ClCompile Include="System\feSerializeManager.cpp">
-      <Filter>Source Files\System</Filter>
     </ClCompile>
     <ClCompile Include="System\Physics\feDebugDrawer.cpp">
       <Filter>Source Files\System\Physics</Filter>
@@ -271,20 +181,11 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Object\feObject.inl">
-      <Filter>Source Files\Object</Filter>
-    </None>
-    <None Include="Component\feComponent.inl">
-      <Filter>Source Files\Component</Filter>
-    </None>
     <None Include="Component\Light\feLight.inl">
       <Filter>Source Files\Component\Light</Filter>
     </None>
     <None Include="Component\Light\feDirectionalLight.inl">
       <Filter>Source Files\Component\Light</Filter>
-    </None>
-    <None Include="Component\Video\feCamera.inl">
-      <Filter>Source Files\Component\Video</Filter>
     </None>
     <None Include="Shader\basic.fs.glsl">
       <Filter>Shader</Filter>

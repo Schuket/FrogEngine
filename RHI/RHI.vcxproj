@@ -195,17 +195,6 @@
     </ClCompile>
     <ClCompile Include="Texture\GLTexture.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Image\Image.vcxproj">
-      <Project>{c9894808-c674-45dc-8963-1002555ce1e9}</Project>
-    </ProjectReference>
-    <ProjectReference Include="..\Logger\Logger.vcxproj">
-      <Project>{760b2ad2-1837-45ee-a038-afa27fb6a759}</Project>
-    </ProjectReference>
-    <ProjectReference Include="..\Math\Math.vcxproj">
-      <Project>{0ecd0fe0-60ec-428d-b913-9ecf7df2fd8b}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
